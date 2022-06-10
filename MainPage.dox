@@ -1,0 +1,12 @@
+/**
+@mainpage Gamma game documentation
+
+### Program description
+
+The game implementation process was divided into three phases:
+
+1. Implemented an interface for a class that stores game state
+2. A text-based interface was implemented to allow batch and interactive play in the terminal
+3. Improved game mechanics, interactive mode, added ability to compile tests
+
+*/
