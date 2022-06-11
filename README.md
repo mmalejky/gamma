@@ -1,3 +1,6 @@
+## Demo of interactive mode
+![gamma-preview](https://user-images.githubusercontent.com/104734237/173177543-611e59dc-597b-40cb-bcfb-4404e28de0e4.gif)
+
 ## Game description
 The game is parameterized by four values: ```width```, ```height```, ```players``` and ```max_areas```.
 
